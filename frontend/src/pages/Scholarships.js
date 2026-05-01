@@ -62,12 +62,12 @@ export default function Scholarships() {
             Scholarship Opportunities
           </h1>
           <p className="text-gray-300 text-lg max-w-2xl mx-auto">
-            Exclusive merit-based scholarships for Zimbabwean students — covering up to 50% of tuition fees at India's best universities.
+            Exclusive merit-based scholarships for Zimbabwean students — covering up to 75% of tuition fees at India's best universities.
           </p>
           <div className="mt-6 flex flex-wrap justify-center gap-4">
             {[
               { label: `${scholarships.length} Scholarships`, icon: '🎓' },
-              { label: 'Up to 50% Coverage', icon: '💰' },
+              { label: 'Up to 75% Coverage', icon: '💰' },
               { label: '20+ Universities', icon: '🏛️' },
             ].map(({ label, icon }) => (
               <div key={label} className="flex items-center gap-2 bg-white/10 px-4 py-2 rounded-full text-sm font-medium">

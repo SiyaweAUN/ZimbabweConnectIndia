@@ -65,7 +65,7 @@ export default function Register() {
             {[
               'Free application process',
               'Dedicated personal advisor',
-              'Up to 50% tuition discount',
+              'Up to 75% tuition discount',
               'Visa assistance included',
               '20+ partner universities',
             ].map(item => (
@@ -125,7 +125,7 @@ export default function Register() {
               <div className="relative">
                 <Phone className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400" />
                 <input type="tel" className="input-field pl-10"
-                  placeholder="+263 77 123 4567"
+                  placeholder="+263 78 906 0918"
                   {...register('phone')} />
               </div>
             </div>

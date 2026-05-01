@@ -1,6 +1,6 @@
 # 🎓 ZimbabweConnectIndia
 
-> The premier platform helping Zimbabwean students apply to study in India with **up to 50% scholarship** opportunities.
+> The premier platform helping Zimbabwean students apply to study in India with **up to 75% scholarship** opportunities.
 
 ---
 
@@ -382,7 +382,7 @@ adminReply{ message, repliedBy, repliedAt }, ipAddress
 ## 📞 Default Contact Info
 
 Update these in `backend/.env` and `frontend/.env`:
-- WhatsApp: `+263 77 123 4567`
+- WhatsApp: `+263 78 906 0918`
 - Email: `info@zimbabweconnectindia.com`
 - Offices: Harare, Zimbabwe & New Delhi, India
 

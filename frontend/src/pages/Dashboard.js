@@ -275,7 +275,7 @@ export default function Dashboard() {
               </div>
               <div>
                 <label className="label">Phone</label>
-                <input className="input-field" disabled={!editingProfile} placeholder="+263 77 ..." {...register('phone')} />
+                <input className="input-field" disabled={!editingProfile} placeholder="+263 78 906 0918" {...register('phone')} />
               </div>
               <div>
                 <label className="label">High School</label>

@@ -105,7 +105,7 @@ async function seed() {
       email: 'student@test.com',
       password: 'Student@1234',
       role: 'student',
-      phone: '+263771234567',
+      phone: '+263789060918',
       nationality: 'Zimbabwean',
       highSchool: 'Harare High School',
       highSchoolGrade: 'A Level - 3As',

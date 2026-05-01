@@ -64,7 +64,7 @@ export default function Contact() {
             <div className="lg:col-span-2 space-y-6">
               {/* WhatsApp CTA */}
               <a
-                href="https://wa.me/263771234567?text=Hello%20ZimbabweConnectIndia%2C%20I%20need%20help%20with%20my%20application"
+                href="https://wa.me/263789060918?text=Hello%20ZimbabweConnectIndia%2C%20I%20need%20help%20with%20my%20application"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 p-5 rounded-2xl bg-green-500 hover:bg-green-600 text-white shadow-lg shadow-green-500/25 transition-all hover:-translate-y-0.5 group"
@@ -74,7 +74,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="font-semibold">Chat on WhatsApp</p>
-                  <p className="text-green-100 text-sm">+263 77 123 4567 — usually replies within 1 hour</p>
+                  <p className="text-green-100 text-sm">+263 78 906 0918 — usually replies within 1 hour</p>
                 </div>
               </a>
 
@@ -98,8 +98,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="font-semibold text-gray-900 dark:text-white text-sm">Call Us</p>
-                  <a href="tel:+263771234567" className="text-accent-600 dark:text-accent-400 text-sm hover:underline">
-                    +263 77 123 4567
+                  <a href="tel:+263789060918" className="text-accent-600 dark:text-accent-400 text-sm hover:underline">
+                    +263 78 906 0918
                   </a>
                   <p className="text-xs text-gray-400 mt-0.5">Mon–Fri, 8 AM – 6 PM CAT</p>
                 </div>
@@ -200,7 +200,7 @@ export default function Contact() {
                         <label className="label">Phone Number</label>
                         <input
                           className="input-field"
-                          placeholder="+263 77 ..."
+                          placeholder="+263 78 906 0918"
                           {...register('phone')}
                         />
                       </div>

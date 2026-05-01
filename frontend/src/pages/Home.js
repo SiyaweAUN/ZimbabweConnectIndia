@@ -11,7 +11,7 @@ import { useState } from 'react';
 const stats = [
   { icon: Users, value: '500+', label: 'Students Placed', color: 'text-brand-500' },
   { icon: GraduationCap, value: '20+', label: 'Partner Universities', color: 'text-accent-500' },
-  { icon: Award, value: '50%', label: 'Max Scholarship', color: 'text-yellow-500' },
+  { icon: Award, value: '75%', label: 'Max Scholarship', color: 'text-yellow-500' },
   { icon: Globe, value: '5+', label: 'Years Experience', color: 'text-blue-500' },
 ];
 
@@ -23,7 +23,7 @@ const benefits = [
   },
   {
     icon: '💰',
-    title: 'Up to 50% Scholarships',
+    title: 'Up to 75% Scholarships',
     desc: 'Our exclusive partnerships unlock merit-based scholarships that dramatically reduce your tuition costs.',
   },
   {
@@ -103,7 +103,7 @@ export default function Home() {
             <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6 animate-fade-up animation-delay-100">
               Study in India with{' '}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-400 to-yellow-400">
-                Up to 50%
+                Up to 75%
               </span>{' '}
               Scholarship
             </h1>

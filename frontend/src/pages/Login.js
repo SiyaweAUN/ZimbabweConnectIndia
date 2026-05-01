@@ -41,7 +41,7 @@ export function Login() {
             Your gateway to world-class education in India with exclusive scholarship opportunities.
           </p>
           <div className="mt-10 space-y-3">
-            {['🇿🇼 Zimbabwean Students Welcome', '🎓 50+ Partner Universities', '💰 Up to 50% Scholarship'].map(t => (
+            {['🇿🇼 Zimbabwean Students Welcome', '🎓 50+ Partner Universities', '💰 Up to 75% Scholarship'].map(t => (
               <div key={t} className="text-sm text-gray-300 bg-white/5 rounded-xl px-4 py-2.5">{t}</div>
             ))}
           </div>
